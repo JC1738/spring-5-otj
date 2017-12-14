@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/client/discovery-client.iml" filepath="$PROJECT_DIR$/../service-discovery/client/discovery-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/integration-tests/discovery-integration-tests.iml" filepath="$PROJECT_DIR$/../service-discovery/integration-tests/discovery-integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/integration-tests/jersey-client/discovery-integration-tests-jersey-client.iml" filepath="$PROJECT_DIR$/../service-discovery/integration-tests/jersey-client/discovery-integration-tests-jersey-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/integration-tests/resteasy-client/discovery-integration-tests-resteasy-client.iml" filepath="$PROJECT_DIR$/../service-discovery/integration-tests/resteasy-client/discovery-integration-tests-resteasy-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/integration-tests/server/discovery-integration-tests-server.iml" filepath="$PROJECT_DIR$/../service-discovery/integration-tests/server/discovery-integration-tests-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/integration-tests/spring-boot/discovery-integration-tests-spring-boot.iml" filepath="$PROJECT_DIR$/../service-discovery/integration-tests/spring-boot/discovery-integration-tests-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/discovery-parent.iml" filepath="$PROJECT_DIR$/../service-discovery/discovery-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/server/discovery-server.iml" filepath="$PROJECT_DIR$/../service-discovery/server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-discovery/test-support/discovery-test-support.iml" filepath="$PROJECT_DIR$/../service-discovery/test-support/discovery-test-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../otj-metrics/otj-metrics.iml" filepath="$PROJECT_DIR$/../otj-metrics/otj-metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../otj-parent/internal/otj-parent.iml" filepath="$PROJECT_DIR$/../otj-parent/internal/otj-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../otj-parent/otj-parent-modules.iml" filepath="$PROJECT_DIR$/../otj-parent/otj-parent-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../otj-parent/oss/otj-parent-oss.iml" filepath="$PROJECT_DIR$/../otj-parent/oss/otj-parent-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../otj-parent/spring/otj-parent-spring.iml" filepath="$PROJECT_DIR$/../otj-parent/spring/otj-parent-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../otj-server/otj-server.iml" filepath="$PROJECT_DIR$/../otj-server/otj-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-5-otj.iml" filepath="$PROJECT_DIR$/spring-5-otj.iml" />
+    </modules>
+  </component>
+</project>

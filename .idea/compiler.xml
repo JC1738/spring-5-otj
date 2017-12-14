@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="discovery-client" />
+        <module name="discovery-integration-tests-jersey-client" />
+        <module name="discovery-integration-tests-resteasy-client" />
+        <module name="discovery-integration-tests-server" />
+        <module name="discovery-integration-tests-spring-boot" />
+        <module name="discovery-server" />
+        <module name="discovery-test-support" />
+        <module name="otj-metrics" />
+        <module name="otj-server" />
+        <module name="spring-5-otj" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="discovery-client" target="1.8" />
+      <module name="discovery-integration-tests" target="1.8" />
+      <module name="discovery-integration-tests-jersey-client" target="1.8" />
+      <module name="discovery-integration-tests-resteasy-client" target="1.8" />
+      <module name="discovery-integration-tests-server" target="1.8" />
+      <module name="discovery-integration-tests-spring-boot" target="1.8" />
+      <module name="discovery-parent" target="1.8" />
+      <module name="discovery-server" target="1.8" />
+      <module name="discovery-test-support" target="1.8" />
+      <module name="otj-metrics" target="1.8" />
+      <module name="otj-parent" target="1.8" />
+      <module name="otj-parent-modules" target="1.8" />
+      <module name="otj-parent-oss" target="1.8" />
+      <module name="otj-parent-spring" target="1.8" />
+      <module name="otj-server" target="1.8" />
+      <module name="spring-5-otj" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

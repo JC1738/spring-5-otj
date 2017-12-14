@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../otj-metrics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../otj-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../otj-parent/internal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../otj-parent/oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../otj-parent/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../otj-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery/integration-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery/integration-tests/jersey-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery/integration-tests/resteasy-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery/integration-tests/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery/integration-tests/spring-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-discovery/test-support" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+</project>
